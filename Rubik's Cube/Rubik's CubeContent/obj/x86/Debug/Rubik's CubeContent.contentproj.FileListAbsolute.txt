@@ -1,0 +1,3 @@
+G:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's CubeContent\obj\x86\Debug\Rubik's CubeContent.contentprojResolveAssemblyReference.cache
+E:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's CubeContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's CubeContent\obj\x86\Debug\ResolveAssemblyReference.cache

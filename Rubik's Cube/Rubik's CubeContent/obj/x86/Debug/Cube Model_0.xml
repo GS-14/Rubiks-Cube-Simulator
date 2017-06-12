@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:NodeContent">
+    <Name>RootNode</Name>
+    <Identity>
+      <SourceFilename>G:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's CubeContent\Cube Model.fbx</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+    <Children>
+      <Child Type="Graphics:MeshContent">
+        <Name>Cube</Name>
+        <Transform>7.54979E-08 0 -1 0 -1 0 -7.54979E-08 0 0 1 0 0 0 0 0 1</Transform>
+        <Positions>1 1 -1 1 -1 -1 -1 -1 -1 -1 1 -1 1 0.999999 1 0.999999 -1.000001 1 -1 -1 1 -1 1 1</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource1</Material>
+            <Indices>2 1 0 0 3 2</Indices>
+            <Vertices>
+              <PositionIndices>0 1 2 3</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 -1 0 0 -1 0 0 -1 0 0 -1</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.9999 0.0001 0.0001 0.0001 0.0001 0.9999 0.9999 0.9999</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+          <Batch>
+            <Material>#Resource2</Material>
+            <Indices>2 1 0 0 3 2</Indices>
+            <Vertices>
+              <PositionIndices>4 7 6 5</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 1 0 0 1 0 0 1 0 0 1</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.9999 0.000101 0.0001 0.0001 0.0001 0.9999 0.999899 0.9999</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+          <Batch>
+            <Material>#Resource3</Material>
+            <Indices>2 1 0 0 3 2</Indices>
+            <Vertices>
+              <PositionIndices>0 4 5 1</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">1 -0 0 1 -0 0 1 -0 0 1 -0 0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.9999 0.9999 0.9999 0.0001 0.0001 0.0001 0.0001 0.9999</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+          <Batch>
+            <Material>#Resource4</Material>
+            <Indices>2 1 0 0 3 2</Indices>
+            <Vertices>
+              <PositionIndices>1 5 6 2</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">-0 -1 -0 -0 -1 -0 -0 -1 -0 -0 -1 -0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.9999 0.9999 0.9999 0.0001 0.0001 0.0001 0.0001 0.9999</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+          <Batch>
+            <Material>#Resource5</Material>
+            <Indices>2 1 0 0 3 2</Indices>
+            <Vertices>
+              <PositionIndices>2 6 7 3</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">-1 0 -0 -1 0 -0 -1 0 -0 -1 0 -0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.0001 0.0001 0.0001 0.9999 0.9999 0.9999 0.9999 0.0001</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+          <Batch>
+            <Material>#Resource6</Material>
+            <Indices>2 1 0 0 3 2</Indices>
+            <Vertices>
+              <PositionIndices>4 0 3 7</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 1 0 0 1 0 0 1 0 0 1 0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.9999 0.9999 0.9999 0.0001 0.0001 0.0001 0.0001 0.9999</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+    </Children>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>Green_Side__Green_Side_png</Name>
+      <Identity>
+        <SourceFilename>G:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's CubeContent\Cube Model.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.640000045 0.640000045 0.640000045</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External1</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+    <Resource ID="#Resource2" Type="Graphics:BasicMaterialContent">
+      <Name>Blue_Side__Blue_Side_png</Name>
+      <Identity>
+        <SourceFilename>G:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's CubeContent\Cube Model.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.640000045 0.640000045 0.640000045</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External2</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+    <Resource ID="#Resource3" Type="Graphics:BasicMaterialContent">
+      <Name>White_Side__White_Side_png</Name>
+      <Identity>
+        <SourceFilename>G:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's CubeContent\Cube Model.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.640000045 0.640000045 0.640000045</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External3</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+    <Resource ID="#Resource4" Type="Graphics:BasicMaterialContent">
+      <Name>Orange_Side__Orange_Side_png</Name>
+      <Identity>
+        <SourceFilename>G:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's CubeContent\Cube Model.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.640000045 0.640000045 0.640000045</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External4</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+    <Resource ID="#Resource5" Type="Graphics:BasicMaterialContent">
+      <Name>Yellow_Side__Yellow_Side_png</Name>
+      <Identity>
+        <SourceFilename>G:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's CubeContent\Cube Model.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.640000045 0.640000045 0.640000045</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External5</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+    <Resource ID="#Resource6" Type="Graphics:BasicMaterialContent">
+      <Name>Red_Side__Red_Side_png</Name>
+      <Identity>
+        <SourceFilename>G:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's CubeContent\Cube Model.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.640000045 0.640000045 0.640000045</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External6</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+  </Resources>
+  <ExternalReferences>
+    <ExternalReference ID="#External1" TargetType="Graphics:TextureContent">..\..\..\Green Side.png</ExternalReference>
+    <ExternalReference ID="#External2" TargetType="Graphics:TextureContent">..\..\..\Blue Side.png</ExternalReference>
+    <ExternalReference ID="#External3" TargetType="Graphics:TextureContent">..\..\..\White Side.png</ExternalReference>
+    <ExternalReference ID="#External4" TargetType="Graphics:TextureContent">..\..\..\Orange Side.png</ExternalReference>
+    <ExternalReference ID="#External5" TargetType="Graphics:TextureContent">..\..\..\Yellow Side.png</ExternalReference>
+    <ExternalReference ID="#External6" TargetType="Graphics:TextureContent">..\..\..\Red Side.png</ExternalReference>
+  </ExternalReferences>
+</XnaContent>

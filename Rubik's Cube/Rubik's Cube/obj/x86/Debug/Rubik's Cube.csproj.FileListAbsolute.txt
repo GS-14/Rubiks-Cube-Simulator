@@ -1,0 +1,57 @@
+G:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\obj\x86\Debug\Rubik's Cube.csprojResolveAssemblyReference.cache
+G:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Rubik's Cube.exe
+G:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Rubik's Cube.pdb
+G:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\obj\x86\Debug\Rubik's Cube.exe
+G:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\obj\x86\Debug\Rubik's Cube.pdb
+E:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\Cube Model.xnb
+E:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Rubik's Cube.exe
+E:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Rubik's Cube.pdb
+E:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\obj\x86\Debug\Rubik's Cube.exe
+E:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\obj\x86\Debug\Rubik's Cube.pdb
+G:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\Blue Side.xnb
+G:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\Green Side.xnb
+G:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\Orange Side.xnb
+G:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\Red Side.xnb
+G:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\White Side.xnb
+G:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\Yellow Side.xnb
+G:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\Cube Model.xnb
+G:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\Green Side_0.xnb
+G:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\Blue Side_0.xnb
+G:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\White Side_0.xnb
+G:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\Orange Side_0.xnb
+G:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\Yellow Side_0.xnb
+G:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\Red Side_0.xnb
+E:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\Blue Side.xnb
+E:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\Green Side.xnb
+E:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\Orange Side.xnb
+E:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\Red Side.xnb
+E:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\White Side.xnb
+E:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\Yellow Side.xnb
+E:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\Green Side_0.xnb
+E:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\Blue Side_0.xnb
+E:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\White Side_0.xnb
+E:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\Orange Side_0.xnb
+E:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\Yellow Side_0.xnb
+E:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\Red Side_0.xnb
+D:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\Blue Side.xnb
+D:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\Green Side.xnb
+D:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\Orange Side.xnb
+D:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\Red Side.xnb
+D:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\White Side.xnb
+D:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\Yellow Side.xnb
+D:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\Cube Model.xnb
+D:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\Green Side_0.xnb
+D:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\Blue Side_0.xnb
+D:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\White Side_0.xnb
+D:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\Orange Side_0.xnb
+D:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\Yellow Side_0.xnb
+D:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Content\Red Side_0.xnb
+D:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Rubik's Cube.exe
+D:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\bin\x86\Debug\Rubik's Cube.pdb
+D:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\obj\x86\Debug\Rubik's Cube.exe
+D:\Senior Year Stuff\Game Programming\Rubik's Cube\Rubik's Cube\Rubik's Cube\obj\x86\Debug\Rubik's Cube.pdb

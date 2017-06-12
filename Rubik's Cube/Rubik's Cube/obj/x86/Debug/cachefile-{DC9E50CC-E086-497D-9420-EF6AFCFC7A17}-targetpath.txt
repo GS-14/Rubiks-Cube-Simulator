@@ -1,0 +1,13 @@
+Content\Cube Model.xnb
+Content\Blue Side.xnb
+Content\Green Side.xnb
+Content\Orange Side.xnb
+Content\Red Side.xnb
+Content\White Side.xnb
+Content\Yellow Side.xnb
+Content\Green Side_0.xnb
+Content\Blue Side_0.xnb
+Content\White Side_0.xnb
+Content\Orange Side_0.xnb
+Content\Yellow Side_0.xnb
+Content\Red Side_0.xnb
